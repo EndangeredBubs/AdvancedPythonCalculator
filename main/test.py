@@ -1,5 +1,10 @@
 # Example
 
+print("Advanced Calculator")
+print'''test
+end'''
+
+
 one=1
 two=2
 three=3
@@ -10,3 +15,8 @@ seven=7
 eight=8
 nine=9
 zero=0
+done="Calculations are finished."
+
+
+
+print(done)
